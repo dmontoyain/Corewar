@@ -9,7 +9,7 @@ A 42 School Silicon Valley algorithms project.
 ### Downloading
 
 ```
-git clone https://github.com/Dorfnox/Corewar.git corewar
+git clone https://github.com/dmontoyain/Corewar.git corewar
 ```
 ### Installing
 
